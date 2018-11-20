@@ -17,7 +17,7 @@ Instructions on how to clone my project:
 
 git clone https://github.com/BrendaMichelle/List-User-Repos.git
 
-4. The repository will be cloned.
+4. The repository will be cloned
 
 
 
