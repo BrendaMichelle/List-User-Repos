@@ -1,11 +1,33 @@
 # List-User-Repos
 
-## DESCRIPTION: 
+## Description: 
 
 Uses the List User Repositories Github REST API to return the list of public repositories accessible 
-to my user account. 
+to my user account.
 
-## INSTALLATION: 
+
+
+
+# Executing the Project
+
+You may execute this project without cloning/downloading the whole repos. To do so, download the JAR file directly by clicking [here](https://github.com/BrendaMichelle/List-User-Repos/raw/master/List-User-Repos-Executable.jar) or downloading it from this [this](https://github.com/BrendaMichelle/List-User-Repos/blob/master/List-User-Repos-Executable.jar) part of the repo.
+
+Then, follow the following instruction:
+
+1. Open your terminal
+
+2. Type in the following command:
+
+java -jar path/to/the/List-User-Repos-Executable.jar
+
+3. Press **enter**
+
+**Voila!** 
+
+# Setting up the Project for Development
+
+
+## Installation: 
 
 Instructions on how to clone my project:
 
@@ -22,7 +44,7 @@ git clone https://github.com/BrendaMichelle/List-User-Repos.git
 
 
 
-## USAGE: 
+## Usage:
 
 Make sure you have java-json.jar as an external JAR added to the project as shown below:
 
