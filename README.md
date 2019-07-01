@@ -10,7 +10,7 @@ to my user account.
 
 # Executing the Project
 
-You may execute this project without cloning/downloading the whole repos. To do so, download the JAR file directly by clicking [here](https://github.com/BrendaMichelle/List-User-Repos/raw/master/List-User-Repos-Executable.jar) or downloading it from this [this](https://github.com/BrendaMichelle/List-User-Repos/blob/master/List-User-Repos-Executable.jar) part of the repo.
+You may execute this project without cloning/downloading the whole repo. To do so, download the JAR file directly by clicking [here](https://github.com/BrendaMichelle/List-User-Repos/raw/master/List-User-Repos-Executable.jar) or downloading it from this [this](https://github.com/BrendaMichelle/List-User-Repos/blob/master/List-User-Repos-Executable.jar) part of the repo.
 
 Then, follow the following instructions:
 
@@ -18,7 +18,9 @@ Then, follow the following instructions:
 
 2. Type in the following command:
 
+```shell
 java -jar path/to/the/List-User-Repos-Executable.jar
+```
 
 3. Press **enter**
 
@@ -37,7 +39,9 @@ Instructions on how to clone my project:
 
 3. Copy and paste the following command into the terminal and then, press **enter**: 
 
+```shell
 git clone https://github.com/BrendaMichelle/List-User-Repos.git
+```
 
 4. The repository will be cloned
 
